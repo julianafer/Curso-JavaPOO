@@ -1,0 +1,7 @@
+/.metadata/
+aulas/bin
+aulas/.project
+aulas/.classpath
+aulas/src/module-info.java
+aulas/.settings/org.eclipse.jdt.core.prefs
+aulas/.settings/org.eclipse.core.resources.prefs
