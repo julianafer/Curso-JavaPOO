@@ -1,6 +1,6 @@
-package aulas;
+package aula04;
 
-public class Caneta3 {
+public class Caneta {
 
 	private String modelo;
 	private String cor;
@@ -8,7 +8,7 @@ public class Caneta3 {
 	private boolean tampada;
 	
 	 // método construtor
-	public Caneta3(String modelo, String cor, float ponta) {
+	public Caneta(String modelo, String cor, float ponta) {
 		this.setModelo(modelo);
 		this.setCor(cor);
 		this.setPonta(ponta);

@@ -1,4 +1,4 @@
-package aulas;
+package aula07e08;
 
 public class Combate {
 
